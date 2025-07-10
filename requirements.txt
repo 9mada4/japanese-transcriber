@@ -1,7 +1,4 @@
-sounddevice
 numpy
-scipy
-transformers
-torch
-accelerate
-sentencepiece
+faster-whisper
+pyaudio
+PyQt6
